@@ -34,4 +34,4 @@ btnRoll.addEventListener('click', function () {
 
 btnHold.addEventListener('click', function () {
   activePlayer = activePlayer === 0 ? 1 : 0;
-});
+}); 
